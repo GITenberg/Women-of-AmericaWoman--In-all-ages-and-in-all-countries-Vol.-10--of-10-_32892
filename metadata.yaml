@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36094'
     url: http://www.gutenberg.org/2009/agents/36094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32892#Women-of-AmericaWoman--In-all-ages-and-in-all-countries-Vol.-10--of-10-
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
 identifiers:
