@@ -1,0 +1,31 @@
+_repo: Women-of-AmericaWoman--In-all-ages-and-in-all-countries-Vol.-10--of-10-_32892
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Larus, John Ruse
+    alias: Larus, John Rouse
+    birthdate: 1858
+    gutenberg_agent_id: '36094'
+    url: http://www.gutenberg.org/2009/agents/36094
+description: ''
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- America -- History'
+- !lcsh 'Women -- United States -- History'
+- !lcc 'E151'
+- !lcc 'E011'
+- !lcc 'HQ'
+title: 'Women of America
+
+  Woman: In all ages and in all countries Vol. 10 (of 10)'
+url: http://www.gutenberg.org/ebooks/32892
